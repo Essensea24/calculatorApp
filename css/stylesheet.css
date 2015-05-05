@@ -1,0 +1,40 @@
+.calculatorScreen {
+	text-align: center;
+}
+
+
+.returnValue {
+	background-color: black;
+	width: 50%;
+	height: 500px;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+
+}
+.number {
+	background-color: darkgrey;
+	width: 15%;
+	height: 25px;
+	font-weight: bold;
+	border-radius: 15%;
+	font-size: 20px;
+}
+
+.signs {
+	background-color: orange;
+	width: 15%;
+	height: 25px;
+	border-radius: 15%;
+	font-size: 20px;
+}
+
+.clearButton {
+	background-color: yellow;
+	width: 100px;
+	height: 50px;
+	border-radius: 15%;
+	font-size: 25px;
+
+
+}
